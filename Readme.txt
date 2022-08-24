@@ -208,6 +208,7 @@ Webサイト:https://ci-en.dlsite.com/creator/11451
 ・MessageSkip
 ・SceneGlossary
 ・SubstituteExtend
+・ThroughFailedToLoad
 
 
 ⇒制作者:ルルの協会 様
