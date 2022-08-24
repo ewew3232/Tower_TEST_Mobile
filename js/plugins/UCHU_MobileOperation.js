@@ -478,7 +478,7 @@ var UCHU_MobileOperation = {};
 				if(PRM.visible[2]){this.canselButton = new Locate_Button(2);}
 				Graphics._updateRealScale();
 				document.documentElement.style["-webkit-user-select"]="none";
-				document.addEventListener("touchmove", function(evt) {evt.preventDefault();}, false);
+			//	document.addEventListener("touchmove", function(evt) {evt.preventDefault();}, false);
 			}
 		}
 	};
